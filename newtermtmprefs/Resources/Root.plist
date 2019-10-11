@@ -8,7 +8,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>NewTermTMPrefs First Page</string>
+			<string>General</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -18,12 +18,40 @@
 			<key>defaults</key>
 			<string>com.withertech.newtermtmprefs</string>
 			<key>key</key>
-			<string>AwesomeSwitch1</string>
+			<string>isEnabled</string>
 			<key>label</key>
-			<string>Awesome Switch 1</string>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>default</key>
+			<string>10</string>
+			<key>defaults</key>
+			<string>com.withertech.newtermtmprefs</string>
+			<key>isNumeric</key>
+			<true/>
+			<key>key</key>
+			<string>foregroundCode</string>
+			<key>label</key>
+			<string>Foreground Color</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>default</key>
+			<string>0</string>
+			<key>defaults</key>
+			<string>com.withertech.newtermtmprefs</string>
+			<key>isNumeric</key>
+			<true/>
+			<key>key</key>
+			<string>backgroundCode</string>
+			<key>label</key>
+			<string>Background Color</string>
 		</dict>
 	</array>
 	<key>title</key>
-	<string>NewTermTMPrefs</string>
+	<string>NewTerm Theme Manager</string>
 </dict>
 </plist>
