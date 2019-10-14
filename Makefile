@@ -6,4 +6,5 @@ NewTermTM_FRAMEWORKS = UIKit
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 SUBPROJECTS += newtermtmprefs
+SUBPROJECTS += newtermtmapp
 include $(THEOS_MAKE_PATH)/aggregate.mk

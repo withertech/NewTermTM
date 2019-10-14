@@ -1,0 +1,3 @@
+@interface NTMRootViewController : UITableViewController
+
+@end
