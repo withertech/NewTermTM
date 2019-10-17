@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
 
+
 %group enabled
 %hook VT100Terminal
 - (int)foregroundColorCode {
