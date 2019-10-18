@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleExecutable</key>
-	<string>NewTermTMApp</string>
+	<string>NewTermTM</string>
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -57,10 +57,6 @@
 	<array>
 		<integer>1</integer>
 		<integer>2</integer>
-	</array>
-	<key>UIRequiredDeviceCapabilities</key>
-	<array>
-		<string>armv7</string>
 	</array>
 	<key>UILaunchImageFile</key>
 	<string>LaunchImage</string>
@@ -136,6 +132,10 @@
 			<key>UILaunchImageSize</key>
 			<string>{414, 736}</string>
 		</dict>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>

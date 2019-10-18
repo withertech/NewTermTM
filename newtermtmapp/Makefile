@@ -1,11 +1,11 @@
 include $(THEOS)/makefiles/common.mk
 
-APPLICATION_NAME = NewTermTMApp
+APPLICATION_NAME = NewTermTM
 
-NewTermTMApp_FILES = main.m NTMAppDelegate.m NTMRootViewController.m
-NewTermTMApp_FRAMEWORKS = UIKit CoreGraphics
+NewTermTM_FILES = main.m NTMAppDelegate.m NTMRootViewController.m
+NewTermTM_FRAMEWORKS = UIKit CoreGraphics
 
 include $(THEOS_MAKE_PATH)/application.mk
 
 after-install::
-	install.exec "killall \"NewTermTMApp\"" || true
+	install.exec "killall \"NewTermTM\"" || true

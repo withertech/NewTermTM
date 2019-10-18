@@ -7,6 +7,14 @@
 - (void)loadView {
 	[super loadView];
 
+Class NTMRootListController;
+    NSString *path = @"/Library/PreferenceBundles/NewTermTMPrefs.bundle";
+    NSBundle *bundleToLoad = [NSBundle bundleWithPath:path];
+    if ((NTMRootListController = bundleToLoad.principalClass)) {
+        UIViewController * vc = [[NTMRootListController alloc] init];
+        [self presentViewController:vc animated:NO completion:nil];
+    }
+
 	_objects = [NSMutableArray array];
 
 	self.title = @"NewTerm Theme Manager";
@@ -44,6 +52,11 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
 	[tableView deselectRowAtIndexPath:indexPath animated:YES];
+}
+
+- (void)loadBundle
+{
+   
 }
 
 @end
