@@ -12,10 +12,10 @@
 	return _specifiers;
 }
 
--(void)respring {
+-(void)reterm {
     pid_t pid;
     int status;
-    const char *argv[] = {"killall", "SpringBoard", NULL};
+    const char *argv[] = {"killall", "NewTerm", NULL};
     posix_spawn(&pid, "/usr/bin/killall", NULL, NULL, (char* const*)argv, NULL);
     waitpid(pid, &status, WEXITED);
 }

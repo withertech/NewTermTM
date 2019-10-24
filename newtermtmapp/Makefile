@@ -2,7 +2,7 @@ include $(THEOS)/makefiles/common.mk
 
 APPLICATION_NAME = NewTermTM
 
-NewTermTM_FILES = main.m NTMAppDelegate.m NTMRootViewController.m
+NewTermTM_FILES = main.m NTMAppDelegate.m
 NewTermTM_FRAMEWORKS = UIKit CoreGraphics
 
 include $(THEOS_MAKE_PATH)/application.mk
