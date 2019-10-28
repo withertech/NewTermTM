@@ -39,7 +39,7 @@
     }
  
     cell.textLabel.text = [_objects objectAtIndex:indexPath.row];
-cell.textLabel.textColor = [_colors objectAtIndex:indexPath.row];
+    cell.textLabel.textColor = [_colors objectAtIndex:indexPath.row];
     return cell;
 }
 
