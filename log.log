@@ -1,0 +1,382 @@
+
+========================
+ASL is here to serve you
+> OK
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEffectActive:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _isRecentlyUpdated
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setBackgroundAlpha:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDisabled:forReason:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _minusPageCount
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector isSearchableTodayViewVisible
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector iconViewDisplaysBadges:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector text
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector init
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector displayName
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithIndicatorSet:enabledIndicatorSet:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEffectStrength:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector defaultStatusBarStyle
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector loadView
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector shouldShowLockStatusBarTime
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _numberOfSignificantAnimations
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setText:forLanguage:animated:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector ACPowerChanged
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector playConnectedToPowerSoundIfNecessary
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateLockItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateSignalStrengthItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateServiceItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateDataNetworkItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAirplaneMode
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateTimeItems
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateQuietModeItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothHeadphonesItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothBatteryItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAlarmItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateRotationLockItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAirplayItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateVPNItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateActivityItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateLocationItem
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setForceDateViewCentered:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector emergencyCallSupported
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _reallySetOperatorName:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _setIndicatorImage:toEnabled:index:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDefaultRingStrokeWidth:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEnabled:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector updateEffect
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector showFavoritesTab:recentsTab:contactsTab:keypadTab:voicemailTab:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _aspectRatioForMode:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutStyle
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _rotateTopBarAndControlsToOriOct 28 15:19:37 WitherTech-iPhone com.apple.xpc.launchd[1] (UIKitApplication:com.withertech.ansi[0x741f][771][12398]) <Notice>: Service exited due to SIGSEGV | sent by exc handler[12398]
+ entation:shouldAnimate:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _shouldHideZoomSliderForGraphConfiguration:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backgroundStyle
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backgroundStyle
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTrendingSearchViews:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTrendingTitleView:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _renderSectionsWithClientContext:timezoneOffset:availableUpdates:installedByDate:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDefaultMaximumZoomFactor:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector showPeople
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector shouldSkipDeleteConfirmation
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector enableUI
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector createAlbumListViewController
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector createAlbumListViewController
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _setAnimating:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateUnanimatedWithComponents:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setPercentCharge:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36mANSI[12398][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setYOffsetFactor:
+[0;37mOct 28 15:19:36 WitherTech-iPhone [0;36msyslogd[21][2;32m <[0;32mNotice[2;32m>[m: ASL Sender Statistics
+[0;37mOct 28 15:19:37 WitherTech-iPhone [0;36mReportCrash[12399][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Injecting: com.apple.CrashReporter [ReportCrash] (1575.17)
+[0;37mOct 28 15:19:37 WitherTech-iPhone [0;36mReportCrash[12399][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CrashReporter.dylib
+[0;37mOct 28 15:19:37 WitherTech-iPhone [0;36mReportCrash[12399][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/RocketBootstrap.dylib
+[0;37mOct 28 15:20:02 WitherTech-iPhone [0;36mNewTerm[11350][2;31m <[0;31mError[2;31m>[m: assertion failed: 16G77: BaseBoard + 356128 [BADF6922-2B6B-33D6-A586-0E8EAAD4C96B]: 0x14
+[0;37mOct 28 15:20:02 WitherTech-iPhone [0;36mUnknown[11350][2;31m <[0;31mError[2;31m>[m: 
+[0;37mOct 28 15:20:12 WitherTech-iPhone [0;36mNewTerm[11350][2;31m <[0;31mError[2;31m>[m: assertion failed: 16G77: BaseBoard + 356128 [BADF6922-2B6B-33D6-A586-0E8EAAD4C96B]: 0x14
+[0;37mOct 28 15:20:12 WitherTech-iPhone [0;36mUnknown[11350][2;31m <[0;31mError[2;31m>[m: 
+[0;37mOct 28 15:20:29 WitherTech-iPhone [0;36mNewTerm[11350][2;31m <[0;31mError[2;31m>[m: assertion failed: 16G77: BaseBoard + 356128 [BADF6922-2B6B-33D6-A586-0E8EAAD4C96B]: 0x14
+[0;37mOct 28 15:2Oct 28 15:20:30 WitherTech-iPhone com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent) <Warning>: Unknown key for integer: _DirtyJetsamMemoryLimit
+ Oct 28 15:20:30 WitherTech-iPhone com.apple.xpc.launchd[1] (com.apple.mobilenotes.NotesImporter) <Error>: Disallowing environment variable: DYLD_FRAMEWORK_PATH
+ 0:29 WitherTech-iPhone [0;36mUnknown[11350][2;31m <[0;31mError[2;31m>[m: 
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Injecting: com.apple.mobilenotes [MobileNotes] (1575.17)
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/Activator.dylib
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mReportCrash[12401][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Injecting: com.apple.CrashReporter [ReportCrash] (1575.17)
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mReportCrash[12401][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CrashReporter.dylib
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mReportCrash[12401][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/RocketBootstrap.dylib
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mReportMemoryException[12402][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Injecting: (null) [ReportMemoryException] (1575.17)
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CarBridgeAppSpecificFixes.dylib
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CarBridgeUIKitClient.dylib
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CercubeServices.dylib
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/DLGMemorInjected.dylib
+[0;37mOct 28 15:20:30 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/Eclipse.dylib
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [UIKBBackdropView initWithFrame:style:primaryBackdrop:]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initForContentSize:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse conversationListBackgroundColor]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse conversationListCellColor]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse transcriptBackgroundColor]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse blue_balloonColors]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse blue_balloonTextColor]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse green_balloonColors]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse green_balloonTextColor]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [CKUIThemeEclipse siri_balloonColors]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector theme
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector theme
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector collectionView
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector membersBackgroundColor
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector memberNameTextColor
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector membersHeaderContentViewBackgroundColor
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backgroundColor
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector bodyTextView
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setBounds:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector didMoveToSuperview
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/FLEXible.dylib
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/Flex.dylib
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/LittleXS.dylib
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [UIStatusBar_Base forceModern]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [UIStatusBar_Base _statusBarImplementationClass]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [UIStatusBarWindow setStatusBar:]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [_UIStatusBar forceSplit]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutQuickActionButtons
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _addOrRemoveCameraButtonIfNecessary
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector handleButtonTouchBegan:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector loadView
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector handleBiometricEvent:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector init
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setHidden:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector deviceSupportsButtons
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSystemWideSwipeDownHeight:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/SpringPlus11.dylib
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector applicationDidFinishLaunching:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector homeScreenRotationStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector lockScreenCameraSupported
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _cardCornerRadiusInApplication
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _cardCornerRadiusInAppSwitcher
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector titleAndIconOpacityForIndex:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector homeScreenBlurProgress
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector shouldUseLiveHomeScreenBlurForAllTransitions
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _dimension
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutTitleLabel
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDate:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTitle:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setIcon:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector description
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _basicOverlaySettings
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _luminanceOverlaySettings
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutRevealHintTitle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setPrimaryText:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSecondaryText:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setHintText:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setMessageNumberOfLines:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSearchHeader:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector clearButtonState
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutSubviewsForState:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _availableWidgetsUpdated:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setVisibleWidgetsIDs:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _shouldShowGrabberOnFirstSwipe
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setBlursBackground:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector baseOverlayTintAlpha
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector baseOverlaySaturation
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector baseOverlayBrightness
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector canTurnOnScreenForNotificationRequest:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _startReplaceAndDismissTimersForRequest:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector mainScreenFlasher
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _recenterHUDView
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector presentHUDView:autoDismissWithDelay:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSlowDownFactor:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backlightFadeDuration
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _addFakeStatusBarView
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEffectActive:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _isRecentlyUpdated
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setBackgroundAlpha:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDisabled:forReason:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _minusPageCount
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector isSearchableTodayViewVisible
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector iconViewDisplaysBadges:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector text
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector init
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector displayName
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithIndicatorSet:enabledIndicatorSet:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEffectStrength:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector defaultStatusBarStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector loadView
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector shouldShowLockStatusBarTime
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _numberOfSignificantAnimations
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setText:forLanguage:animated:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector ACPowerChanged
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector playConnectedToPowerSoundIfNecessary
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateLockItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateSignalStrengthItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateServiceItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateDataNetworkItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAirplaneMode
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateTimeItems
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateQuietModeItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothHeadphonesItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothBatteryItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAlarmItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateRotationLockItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAirplayItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateVPNItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateActivityItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateLocationItem
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setForceDateViewCentered:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector emergencyCallSupported
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _reallySetOperatorName:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _setIndicatorImage:toEnabled:index:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDefaultRingStrokeWidth:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEnabled:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector updateEffect
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector showFavoritesTab:recentsTab:contactsTab:keypadTab:voicemailTab:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _aspectRatioForMode:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _rotateTopBarAndControlsToOrientation:shouldAnimate:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _shouldHideZoomSliderForGraphConfiguration:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backgroundStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backgroundStyle
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTrendingSearchViews:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTrendingTitleView:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _renderSectionsWithClientContext:timezoneOffset:availableUpdates:installedByDate:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [PUAlbumListViewController showPeople]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [PXMemoriesRelatedSettings enableUI]
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _setAnimating:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateUnanimatedWithComponents:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setPercentCharge:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMobileNotes[12400][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setYOffsetFactor:
+[0;37mOct 28 15:20:31 WitherTech-iPhone [0;36mMTLCompilerService[12403][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Injecting: com.apple.MTLCompilerService [MTLCompilerService] (1575.17)
+[0;37mOct 28 15:20:36 WitherTech-iPhone [0;36mNewTerm[11350][2;31m <[0;31mError[2;31m>[m: assertion failed: 16G77: BaseBoard + 356128 [BADF6922-2B6B-33D6-A586-0E8EAAD4C96B]: 0x14
+[0;37mOct 28 15:20:36 WitherTech-iPhone [0;36mUnknown[11350][2;31m <[0;31mError[2;31m>[m: 
+[0;37mOct 28 15:21:24 WitherTech-iPhone [0;36mNewTerm[11350][2;31m <[0;31mError[2;31m>[m: assertion failed: 16G77: BaseBoard + 356128 [BADF6922-2B6B-33D6-A586-0E8EAAD4C96B]: 0x14
+[0;37mOct 28 15:21:24 WitherTech-iPhone [0;36mUnknown[11350][2;31m <[0;31mError[2;31m>[m: 
+[0;37mOct 28 15:21:32 WitherTech-iPhone [0;36mNewTerm[11350][2;31m <[0;31mError[2;31m>[m: assertion failed: 16G77: BaseBoard + 356128 [BADF6922-2B6B-33D6-A586-0E8EAAD4C96B]: 0x14
+[0;37mOct 28 15:21:32 WitherTech-iPhone [0;36mUnknown[11350][2;31m <[0;31mError[2;31m>[m: 
+[0;37mOct 28 15:21:44 WitherTech-iPhone [0;36mNewTerm[11350][2;31m <[0;31mError[2;31m>[m: assertion failed: 16G77: BaseBoard + 356128 [BADF6922-2B6B-33D6-A586-0E8EAAD4C96B]: 0x14
+[0;37mOct 28 15:21:44 WitherTech-iPhone [0;36mUnknown[11350][2;31m <[0;31mError[2;31m>[m: 
+[0;37mOct 28 15:22:08 WitherTech-iPhone [0;36mondeviceconsole[12404][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Injecting: (null) [ondeviceconsole] (1575.17)
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Injecting: com.withertech.ansi [ANSI] (1575.17)
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/Activator.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CarBridgeAppSpecificFixes.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CarBridgeUIKitClient.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/CercubeServices.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/DLGMemorInjected.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/Eclipse.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/FLEXible.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/Flex.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/LittleXS.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [UIStatusBar_Base forceModern]
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [UIStatusBar_Base _statusBarImplementationClass]
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [UIStatusBarWindow setStatusBar:]
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: message not found [_UIStatusBar forceSplit]
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector layoutSubviews
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutQuickActionButtons
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _addOrRemoveCameraButtonIfNecessary
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector handleButtonTouchBegan:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector loadView
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector handleBiometricEvent:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector init
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setHidden:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setFrame:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setFrame:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector deviceSupportsButtons
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSystemWideSwipeDownHeight:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;32m <[0;32mNotice[2;32m>[m: MS:Notice: Loading: /Library/MobileSubstrate/DynamicLibraries/SpringPlus11.dylib
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector applicationDidFinishLaunching:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector homeScreenRotationStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector lockScreenCameraSupported
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _cardCornerRadiusInApplication
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _cardCornerRadiusInAppSwitcher
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector titleAndIconOpacityForIndex:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector homeScreenBlurProgress
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _dimension
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutTitleLabel
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDate:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTitle:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setIcon:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector description
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _basicOverlaySettings
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _luminanceOverlaySettings
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutRevealHintTitle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setPrimaryText:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSecondaryText:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setHintText:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setMessageNumberOfLines:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSearchHeader:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector clearButtonState
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _availableWidgetsUpdated:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setVisibleWidgetsIDs:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _shouldShowGrabberOnFirstSwipe
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setBlursBackground:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector baseOverlayTintAlpha
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector baseOverlaySaturation
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector baseOverlayBrightness
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector canTurnOnScreenForNotificationRequest:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _startReplaceAndDismissTimersForRequest:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector mainScreenFlasher
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _recenterHUDView
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector presentHUDView:autoDismissWithDelay:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setSlowDownFactor:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _addFakeStatusBarView
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEffectActive:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _isRecentlyUpdated
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setBackgroundAlpha:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDisabled:forReason:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _minusPageCount
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector isSearchableTodayViewVisible
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector iconViewDisplaysBadges:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector text
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector init
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector displayName
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEffectStrength:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector defaultStatusBarStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector loadView
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector shouldShowLockStatusBarTime
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector statusBarStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _numberOfSignificantAnimations
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector initWithFrame:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setText:forLanguage:animated:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector ACPowerChanged
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector playConnectedToPowerSoundIfNecessary
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateLockItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateSignalStrengthItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateServiceItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAirplaneMode
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateTimeItems
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateQuietModeItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothHeadphonesItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothBatteryItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateBluetoothItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAlarmItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateRotationLockItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateAirplayItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateVPNItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateActivityItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _updateLocationItem
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setForceDateViewCentered:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector emergencyCallSupported
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _reallySetOperatorName:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _setIndicatorImage:toEnabled:index:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setEnabled:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector updateEffect
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector showFavoritesTab:recentsTab:contactsTab:keypadTab:voicemailTab:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _aspectRatioForMode:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _layoutStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _rotateTopBarAndControlsToOrientation:shouldAnimate:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _shouldHideZoomSliderForGraphConfiguration:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backgroundStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector backgroundStyle
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTrendingSearchViews:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setTrendingTitleView:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector _renderSectionsWithClientContext:timezoneOffset:availableUpdates:installedByDate:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector setDefaultMaximumZoomFactor:
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector showPeople
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;33mWarning[2;33m>[m: MS:Warning: nil class argument for selector shouldSkipDeleteConfirmation
+[0;37mOct 28 15:22:13 WitherTech-iPhone [0;36mANSI[12405][2;33m <[0;3Oct 28 15:22:14 WitherTech-iPhone com.apple.xpc.launchd[1] (UIKitApplication:com.withertech.ansi[0xa187][771][12405]) <Notice>: Service exited due to SIGABRT
+ 
