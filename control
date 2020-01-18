@@ -2,7 +2,7 @@ Package: com.withertech.newtermtm
 Name: NewTerm Theme Manager
 Author: WitherTech <witherking@withertech.com>
 Description: custom NewTerm color schemes with ansi color codes
-Depends: mobilesubstrate
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
 Maintainer: WitherTech <witherking@withertech.com>
 Architecture: iphoneos-arm
 Section: Tweaks

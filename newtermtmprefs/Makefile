@@ -6,6 +6,7 @@ NewTermTMPrefs_FILES = NTMRootListController.m
 NewTermTMPrefs_INSTALL_PATH = /Library/PreferenceBundles
 NewTermTMPrefs_FRAMEWORKS = UIKit
 NewTermTMPrefs_PRIVATE_FRAMEWORKS = Preferences
+NewTermTMPrefs_EXTRA_FRAMEWORKS += Cephei CepheiPrefs
 NewTermTMPrefs_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/bundle.mk
